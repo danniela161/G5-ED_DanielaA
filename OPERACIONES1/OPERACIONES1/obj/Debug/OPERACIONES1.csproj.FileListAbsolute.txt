@@ -1,0 +1,7 @@
+C:\Users\danni\source\repos\OPERACIONES1\OPERACIONES1\bin\Debug\OPERACIONES1.exe.config
+C:\Users\danni\source\repos\OPERACIONES1\OPERACIONES1\bin\Debug\OPERACIONES1.exe
+C:\Users\danni\source\repos\OPERACIONES1\OPERACIONES1\bin\Debug\OPERACIONES1.pdb
+C:\Users\danni\source\repos\OPERACIONES1\OPERACIONES1\obj\Debug\OPERACIONES1.csprojAssemblyReference.cache
+C:\Users\danni\source\repos\OPERACIONES1\OPERACIONES1\obj\Debug\OPERACIONES1.csproj.CoreCompileInputs.cache
+C:\Users\danni\source\repos\OPERACIONES1\OPERACIONES1\obj\Debug\OPERACIONES1.exe
+C:\Users\danni\source\repos\OPERACIONES1\OPERACIONES1\obj\Debug\OPERACIONES1.pdb
