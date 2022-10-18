@@ -1,5 +1,6 @@
 Para subir cambios al repositorio es necesario entrar a la carpeta
 en la que se encuentra desde la terminal y realizar los comandos:
+cd desktop/NOMBRECARPETA
 1. git status (revisar nuevas modificaciones)
 2. git add (agregar todos los archivos nuevos)
 3. git commit -m "descripción commit" (poner una descripción de los cambios realizados)
